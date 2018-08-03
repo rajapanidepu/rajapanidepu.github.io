@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A Web and Mobile application developer with curiousity to learn ML. 
   4 Years of experience and I :heart_eyes: JavaScript.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://rajapanidepu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
